@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "new";
+    src: url(./DancingScript-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "new2";
+    src: url(./IBMPlexSans-Medium.ttf);
+}
+#mainmob{
+    margin-left: 300px;
+}
+#formdiv{
+    position: absolute;
+    top: 50px;
+    right: 200px;
+    width: 30%;
+    background-color: aliceblue;
+    border-color: black;
+
+}
+#instahad{
+    text-align: center;
+    font-family: "new";
+    font-size: 50px;
+}
+#email{
+    margin-left: 60px;
+    width: 250px;
+    height: 30px;
+}
+#pass{
+    margin-left: 60px;
+    height: 30px;
+    width: 250px;
+}
+#logbtn{
+    width: 260px;
+    height: 30px;
+    margin-left: 60px;
+    background-color: rgb(0, 119, 255);
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+/* #fblogo{
+    margin-left: 50px;
+} */
+#fblink{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: blue;
+    /* position: absolute; */
+    top: 281px;
+    right: 120px;
+    text-align: center;
+    margin-left: 110px;
+}
+#forgot{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    margin-left: 150px;
+}
+#secdiv{
+    position: absolute;
+    top: 450px;
+    right: 200px;
+    width: 30%;
+    background-color: aliceblue;
+    border-color: black;
+}
+#sechad{
+    padding-left: 86px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#sign{
+    text-decoration: none;
+    color: blue;
+    font-weight: 500;
+}
+#thirddiv{
+    position: absolute;
+    top: 510px;
+    right: 200px;
+    width: 30%;
+    border-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+
+}
+#downloadimg{
+    margin-left: 110px;
+}
+ul{
+    display: inline-block;
+    margin-left: 40px;
+}
+li{
+    display: inline-block;
+    margin-top: 140px;
+    margin-left: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: gray;
+    font-size: 12px;
+}
+dd{
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: gray;
+    font-size: 12px;
+}
+dfn{
+    margin-left: 510px;
+}
